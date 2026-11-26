@@ -3,14 +3,17 @@
 Format: **copy FanTeam exactly**. Reference contest for GW12:
 "EPL Weekly Special: Week 12" (FanTeam tournament 1174816).
 
-- Squad: **11 players**, formation rules as FanTeam (1 GK; outfield
-  min/max per position **GUESS**: 3-5 DEF, 2-5 MID, 1-3 FWD — confirm).
+- Squad: **11 players**. Formation limits **GUESS** until contest Details checked:
+  1 GK, 3-5 DEF, 3-5 MID, 1-3 FWD.
 - Budget: **113M** (GW12; check each week).
 - Captain: **x2**. Vice-captain steps in if captain doesn't play.
-- Club limit: none stated by Mark. **GUESS**: FanTeam default may cap
-  players per club — confirm from contest Details.
-- Subs: as FanTeam. **GUESS**: no bench, non-starter scores 0.
-- Scoring: FanTeam football table (confirmed 24 Nov 2026).
-- Lock: first kick-off of the slate.
-- Player market (prices/positions) is behind FanTeam login: Mark supplies
-  screenshots or a copy-paste of the market each week.
+- Max per club: set per contest (FanTeam season game uses 3). **Check Details.**
+- Stacking penalty: some FanTeam DFS contests cut CS points by 1/2/3 for each extra
+  GK/DEF from one club. Shown as an icon under the contest name. **Check.**
+- Safety net (auto-sub non-starters): set per contest. **Check.** If off, non-starter = 0.
+- Lock: first kick-off of the slate. GW12 = **Sat 28 Nov 15:00 UK** (MUN v BRE, LEE v COV).
+- Slate GW12: 9 games, Sat-Sun. NFO v CHE (Fri) is NOT on the slate.
+- Player market: download the upload-template CSV from the contest lobby
+  (has FanTeam IDs, names, prices, positions, statuses).
+
+Source: https://beta.fanteam.com/support/general-rules (read 26 Nov 2026).
